@@ -10,20 +10,24 @@
    cd brasileirao-winrate
 
 3. Crie o ambiente virtual
+   ```bash
     python -m venv .venv
 
-4. Ative o ambiente virtual
+5. Ative o ambiente virtual
+   ```bash
     PowerShell:
         .\.venv\Scripts\Activate.ps1
-
+    
     CMD:
         .venv\Scripts\activate
 
     Bash / WSL / macOS / Linux:
         source .venv/bin/activate
 
-5. Instale as dependências: 
+7. Instale as dependências:
+   ```bash
     pip install -r requirements.txt
 
-6. Execute o script principal:
+9. Execute o script principal:
+    ```bash
     python main.py
