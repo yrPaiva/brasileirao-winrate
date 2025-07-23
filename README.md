@@ -4,11 +4,11 @@
 
 ## Como usar
 
-1. Clone este repositório e entre na pasta
+1. """Clone este repositório e entre na pasta"""
    git clone <repo-url>
    cd brasileirao-winrate
 
-2. Crie o ambiente virtual
+2. """Crie o ambiente virtual"""
     python -m venv .venv
 
 3. Ative o ambiente virtual
