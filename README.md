@@ -4,14 +4,15 @@
 
 ## Como usar
 
-1. """Clone este repositório e entre na pasta"""
+1. Clone este repositório e entre na pasta
+    ```bash
    git clone <repo-url>
    cd brasileirao-winrate
 
-2. """Crie o ambiente virtual"""
+3. Crie o ambiente virtual
     python -m venv .venv
 
-3. Ative o ambiente virtual
+4. Ative o ambiente virtual
     PowerShell:
         .\.venv\Scripts\Activate.ps1
 
@@ -21,8 +22,8 @@
     Bash / WSL / macOS / Linux:
         source .venv/bin/activate
 
-4. Instale as dependências: 
+5. Instale as dependências: 
     pip install -r requirements.txt
 
-5. Execute o script principal:
+6. Execute o script principal:
     python main.py
