@@ -6,7 +6,7 @@
 
 1. Clone este repositório e entre na pasta
     ```bash
-   git clone <repo-url>
+   git clone https://github.com/yrPaiva/brasileirao-winrate.git
    cd brasileirao-winrate
 
 3. Crie o ambiente virtual
