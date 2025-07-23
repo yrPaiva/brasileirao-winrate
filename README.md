@@ -31,3 +31,6 @@
 9. Execute o script principal:
     ```bash
     python main.py
+    
+<img width="1000" height="600" alt="Result" src="https://github.com/user-attachments/assets/ea23372c-9aec-4b0e-8fd9-8432b20f5da9" />
+
